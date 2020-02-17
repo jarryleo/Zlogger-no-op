@@ -1,0 +1,2 @@
+include ':app', ':z-logger-no-op'
+rootProject.name='Zlogger-no-op'
